@@ -24,7 +24,7 @@ from typing import Optional
 import json
 import asyncio
 
-app = FastAPI(title="Edify AI API", version="1.0.0")
+app = FastAPI(title="AI Study Companion API", version="1.0.0")
 
 # ─── Models ────────────────────────────────────
 class ChatRequest(BaseModel):
@@ -41,7 +41,7 @@ class ChatResponse(BaseModel):
 # ─── Endpoints ────────────────────────────────
 @app.get("/health")
 async def health():
-    return {"status": "healthy", "service": "Edify AI API"}
+    return {"status": "healthy", "service": "AI Study Companion API"}
 
 @app.post("/chat", response_model=ChatResponse)
 async def chat(request: ChatRequest):

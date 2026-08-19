@@ -152,7 +152,7 @@ This program demonstrates the AI engineering workflow in miniature: we define a 
 
 ```python
 """
-Edify AI Engineering — Chapter 1
+AI Engineering Mastery — Chapter 1
 Your First AI Engineering Program
 
 This program:
