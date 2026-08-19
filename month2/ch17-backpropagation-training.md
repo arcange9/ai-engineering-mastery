@@ -1,5 +1,8 @@
 # Chapter 17 — Training Neural Networks: Backpropagation & Gradient Descent
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 - Understand backpropagation step by step (the chain rule in action)

@@ -1,5 +1,8 @@
 # Chapter 16 — Neural Networks: The Building Blocks
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 - Understand what a neuron is and how it processes information

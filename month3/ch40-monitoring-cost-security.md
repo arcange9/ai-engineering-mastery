@@ -1,5 +1,8 @@
 # Chapter 40 — Monitoring, Cost Optimization & Security
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 - Monitor AI applications in production (latency, quality, errors)

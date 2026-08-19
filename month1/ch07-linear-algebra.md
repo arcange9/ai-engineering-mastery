@@ -1,5 +1,8 @@
 # Chapter 7 — Mathematics for AI: Linear Algebra
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 By the end of this chapter, you will:

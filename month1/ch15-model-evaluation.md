@@ -1,5 +1,8 @@
 # Chapter 15 — Model Evaluation, Overfitting & Cross-Validation
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 - Master all evaluation metrics (accuracy, precision, recall, F1, ROC-AUC)

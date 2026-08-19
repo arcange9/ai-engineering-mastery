@@ -1,5 +1,8 @@
 # Chapter 33 — Retrieval-Augmented Generation (RAG)
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 - Understand the complete RAG pipeline end-to-end

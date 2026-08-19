@@ -1,5 +1,8 @@
 # Chapter 28 — GPUs and AI Hardware
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 - Understand why GPUs are essential for deep learning

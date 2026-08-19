@@ -1,5 +1,8 @@
 # Chapter 38 — Backend Development for AI: FastAPI
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 - Build REST APIs for AI applications with FastAPI

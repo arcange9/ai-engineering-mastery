@@ -1,5 +1,8 @@
 # Chapter 11 — Machine Learning Fundamentals
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 - Understand the ML workflow end-to-end

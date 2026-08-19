@@ -1,5 +1,8 @@
 # Chapter 29 — LLM Application Architecture
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 - Understand LLM application architecture patterns

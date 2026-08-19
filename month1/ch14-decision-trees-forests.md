@@ -1,5 +1,8 @@
 # Chapter 14 — Decision Trees & Random Forests
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 - Understand how decision trees split data

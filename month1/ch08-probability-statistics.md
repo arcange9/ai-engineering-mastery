@@ -1,5 +1,8 @@
 # Chapter 8 — Mathematics for AI: Probability & Statistics
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 By the end of this chapter, you will:

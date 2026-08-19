@@ -1,5 +1,8 @@
 # Chapter 3 — Python for AI: The Essentials
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 By the end of this chapter, you will:

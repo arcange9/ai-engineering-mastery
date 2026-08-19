@@ -1,5 +1,8 @@
 # Chapter 9 — Mathematics for AI: Calculus & Optimization
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 By the end of this chapter, you will:

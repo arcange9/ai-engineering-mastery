@@ -1,5 +1,8 @@
 # Chapter 2 — AI vs ML vs Deep Learning vs Generative AI
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 By the end of this chapter, you will:

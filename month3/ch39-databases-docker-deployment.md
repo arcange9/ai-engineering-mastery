@@ -1,5 +1,8 @@
 # Chapter 39 — Databases, Docker & Deployment
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 - Design database schemas for AI applications

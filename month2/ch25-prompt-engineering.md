@@ -1,5 +1,8 @@
 # Chapter 25 — Prompt Engineering
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 - Master prompt patterns that get better LLM outputs

@@ -1,5 +1,8 @@
 # Chapter 12 — Supervised Learning: Regression
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 - Understand linear and polynomial regression

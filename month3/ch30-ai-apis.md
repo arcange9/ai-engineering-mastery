@@ -1,5 +1,8 @@
 # Chapter 30 — AI APIs & OpenAI-Compatible APIs
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 - Call LLM APIs from Python

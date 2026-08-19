@@ -1,5 +1,8 @@
 # Chapter 23 — Tokenization & Embeddings
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 - Understand tokenization: how text becomes numbers

@@ -1,5 +1,8 @@
 # Chapter 13 — Supervised Learning: Classification
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 - Understand classification (predicting categories, not numbers)

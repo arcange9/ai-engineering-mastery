@@ -4,6 +4,10 @@
 
 ---
 
+*Designed by Mukamyi Izere Arcange*
+
+---
+
 ### Target Audience
 A motivated secondary-school student or beginner developer with basic programming knowledge, access to a normal laptop, and a desire to become an AI Engineer in 3 months.
 

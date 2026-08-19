@@ -1,5 +1,8 @@
 # Chapter 37 — AI Safety, Guardrails & Hallucination Reduction
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 - Understand hallucination causes and prevention

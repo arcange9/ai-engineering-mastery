@@ -1,5 +1,7 @@
 # AI Engineering Mastery: A 90-Day Practical Journey
 
+*Designed by Mukamyi Izere Arcange*
+
 A comprehensive, beginner-friendly textbook that takes you from zero to building production AI applications in 90 days.
 
 ## What's Inside

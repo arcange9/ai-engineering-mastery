@@ -1,5 +1,8 @@
 # Chapter 21 — Recurrent Neural Networks & LSTMs
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 - Understand sequential data and why standard NNs can't handle it

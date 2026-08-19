@@ -1,5 +1,8 @@
 # Chapter 22 — Attention Mechanisms & Transformers
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 - Understand attention and why it revolutionized NLP

@@ -1,5 +1,8 @@
 # Chapter 10 — Data Preprocessing & Feature Engineering
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 - Master data cleaning: handle missing values, duplicates, outliers

@@ -1,5 +1,8 @@
 # Chapter 43 — CAPSTONE PROJECT: Production AI Application
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 - Build a complete production AI application from scratch

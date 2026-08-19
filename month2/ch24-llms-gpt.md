@@ -1,5 +1,8 @@
 # Chapter 24 — Large Language Models: How GPT Works
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 - Understand the full GPT architecture from tokens to text generation

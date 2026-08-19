@@ -1,5 +1,8 @@
 # Appendix B — Complete Glossary
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │  AI ENGINEERING GLOSSARY                                     │

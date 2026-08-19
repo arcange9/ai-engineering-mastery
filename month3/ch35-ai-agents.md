@@ -1,5 +1,8 @@
 # Chapter 35 — AI Agents: Architecture & Tool-Using Agents
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 - Understand agent architecture and the reasoning loop

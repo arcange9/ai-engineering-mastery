@@ -1,5 +1,8 @@
 # Chapter 6 — Data Visualization with Matplotlib
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 By the end of this chapter, you will:

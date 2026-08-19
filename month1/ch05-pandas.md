@@ -1,5 +1,8 @@
 # Chapter 5 — Pandas: Data Manipulation
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 By the end of this chapter, you will:

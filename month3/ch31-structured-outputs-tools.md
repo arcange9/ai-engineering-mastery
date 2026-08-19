@@ -1,5 +1,8 @@
 # Chapter 31 — Structured Outputs & Function/Tool Calling
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 - Get reliable JSON output from LLMs

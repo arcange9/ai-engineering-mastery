@@ -1,5 +1,8 @@
 # Chapter 18 — Building a Neural Network from Scratch
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 - Build a complete, trainable neural network using only NumPy

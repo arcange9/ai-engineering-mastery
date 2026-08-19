@@ -1,5 +1,8 @@
 # Chapter 42 — AI Engineering Career Skills
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 - Know the AI Engineering career landscape

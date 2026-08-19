@@ -1,5 +1,8 @@
 # Chapter 20 — Convolutional Neural Networks (CNNs)
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 - Understand convolutions and why they work for images

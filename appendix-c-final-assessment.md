@@ -1,5 +1,8 @@
 # Appendix C — Final Assessment
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Overview
 
 This assessment covers all material from the 90-day curriculum. It is divided into four sections matching the three months plus a capstone evaluation.

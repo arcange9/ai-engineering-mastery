@@ -1,5 +1,8 @@
 # Chapter 27 — Fine-Tuning, LoRA & Quantization
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 - Understand fine-tuning concepts (full, PEFT, LoRA)

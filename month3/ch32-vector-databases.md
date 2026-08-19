@@ -1,5 +1,8 @@
 # Chapter 32 — Vector Databases & Semantic Search
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 - Understand vector databases and why they power RAG

@@ -1,5 +1,8 @@
 # Chapter 36 — Multi-Agent Systems & Memory
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 - Understand multi-agent coordination and delegation

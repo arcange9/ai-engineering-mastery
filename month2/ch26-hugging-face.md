@@ -1,5 +1,8 @@
 # Chapter 26 — Hugging Face & Open-Source Models
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 - Use the Hugging Face ecosystem (transformers, datasets, models)

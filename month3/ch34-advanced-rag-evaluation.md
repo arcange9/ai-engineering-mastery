@@ -1,5 +1,8 @@
 # Chapter 34 — Advanced RAG & RAG Evaluation
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 - Implement advanced RAG techniques (reranking, hybrid search, query expansion)

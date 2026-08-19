@@ -1,5 +1,8 @@
 # Chapter 41 — Production AI Architecture & Building AI Products
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 - Design a complete production AI system architecture

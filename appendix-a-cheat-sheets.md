@@ -1,5 +1,8 @@
 # Appendix A — Cheat Sheets
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Python Quick Reference
 
 ```python

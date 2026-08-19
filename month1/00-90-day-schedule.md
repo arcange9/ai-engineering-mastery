@@ -1,5 +1,7 @@
 # Appendix A — 90-Day Study Schedule
 
+*Designed by Mukamyi Izere Arcange*
+
 ```
 ┌─────────────────────────────────────────────────────────┐
 │              THE 90-DAY AI ENGINEERING JOURNEY            │

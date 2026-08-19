@@ -1,5 +1,8 @@
 # Chapter 19 — PyTorch: Deep Learning Framework
 
+*Designed by Mukamyi Izere Arcange*
+
+
 ## Learning Objectives
 
 - Understand what PyTorch is and why it's the most popular DL framework
